@@ -7,7 +7,7 @@ git add 把文件加入 staging area
 
 create brunch:
 git branch 新branch的名字
-
+git checkout branchname
 git log --graph --oneline master coins
 
 Comparing a commit to its parent
