@@ -1,0 +1,7 @@
+一个repository就是一个库
+
+git  diff
+
+git clone 
+
+git  log status
