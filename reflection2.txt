@@ -1,0 +1,14 @@
+在一个目录下 git init， 初始化一个新的repository
+
+
+git add 把文件加入 staging area
+然后可以提交commit了
+
+
+create brunch:
+git branch 新branch的名字
+
+git log --graph --oneline master coins
+
+Comparing a commit to its parent
+The command Caroline mentions to compare a commit to its parent is git show commit_id
